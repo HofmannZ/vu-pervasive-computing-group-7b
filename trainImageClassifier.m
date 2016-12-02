@@ -1,0 +1,1 @@
+classifier = trainImageCategoryClassifier(trainingSet, bag);
