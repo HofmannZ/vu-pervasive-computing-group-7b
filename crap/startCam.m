@@ -1,6 +1,6 @@
 % The |webcamlist| function provides a cell array of webcams on the current
 % system that MATLAB(R) can access.
-camList = webcamlist
+%camList = webcamlist
 
 % Connect to the webcam.
 cam = webcam(1)
