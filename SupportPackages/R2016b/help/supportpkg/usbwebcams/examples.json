@@ -1,0 +1,23 @@
+
+[
+      
+{
+    "title": "Acquiring a Single Image in a Loop",
+    "description": "This example shows how to use the snapshot function to acquire live images from USB Webcams.",
+    "thumbnail_url": "../../examples/usbwebcams_product/webcam_gettingstarted_03.png",
+    "url": "../../supportpkg/usbwebcams/examples/acquiring-a-single-image-in-a-loop.html",
+    "type": "Script",
+    "open_command": "matlab:edit webcam_gettingstarted"
+}
+   ,
+{
+    "title": "Logging Video to Disk",
+    "description": "This example shows how to use the snapshot function to acquire live images and log the video to disk.",
+    "thumbnail_url": "includes/product/images/doc_center/DefaultImage.png",
+    "url": "../../supportpkg/usbwebcams/examples/logging-video-to-disk.html",
+    "type": "Script",
+    "open_command": "matlab:edit webcam_recordingvideo"
+}
+   
+]
+    

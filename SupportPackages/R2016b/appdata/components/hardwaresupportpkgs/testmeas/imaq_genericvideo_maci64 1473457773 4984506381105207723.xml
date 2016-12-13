@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>hardwaresupportpkgs/testmeas/imaq_genericvideo</componentBaseName>
+    <componentFileName>hardwaresupportpkgs/testmeas/imaq_genericvideo_maci64_1473457773.zip</componentFileName>
+    <componentName>hardwaresupportpkgs/testmeas/imaq_genericvideo_maci64</componentName>
+    <componentVersion>1473457773</componentVersion>
+    <instrset>0</instrset>
+    <locale />
+    <locationId>1</locationId>
+    <numFiles>2</numFiles>
+    <platformList>
+      <platform>maci64</platform>
+    </platformList>
+    <releaseFamily>R2016b</releaseFamily>
+    <size>59602</size>
+    <type />
+    <uncompressedBytes>199751</uncompressedBytes>
+  </component>
+</componentData>
+
