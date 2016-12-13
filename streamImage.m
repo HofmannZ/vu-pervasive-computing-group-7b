@@ -8,6 +8,7 @@ while (true)
     pause(1);
     imwrite(snap, fullfile('./streamData', 'stream.bmp'));
     [labelIndex, score] = predict(classifier, imread(fullfile('./streamData', 'stream.bmp')));
+    classifier.Labels(labelIndex)
 end 
 
 clear cam;
