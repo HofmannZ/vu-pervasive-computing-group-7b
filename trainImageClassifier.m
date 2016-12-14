@@ -1,1 +1,1 @@
-classifier = trainImageCategoryClassifier(trainingSet, bag);
+classifier = trainImageCategoryClassifier(imds, bag);
