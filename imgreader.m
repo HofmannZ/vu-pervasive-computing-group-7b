@@ -1,4 +1,4 @@
-path = fullfile('./trainingData', 'A', 'bfritza1.pgm');
+path = fullfile('./DataSet4.0.0', 'A', 'bfritza1.pgm');
 img = imread(path);
 [labelIdx, scores] = predict(classifier, img);
  

@@ -1,5 +1,5 @@
-minSetCount = min(tbl{:,2}); 
 % determine the smallest amount of images in a category
+minSetCount = min(tbl{:,2}); 
 
 % Use splitEachLabel method to trim the set.
 imds = splitEachLabel(imds, minSetCount, 'randomize');

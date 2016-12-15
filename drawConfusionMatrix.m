@@ -1,3 +1,2 @@
-function confusionMatrix =  drawConfusionMatrix (classifier, imageDataStore)
-    confusionMatrix = evaluate(classifier, imageDataStore);
-end
+% Draws a confusion matrix based on the test set.
+evaluate(classifier, testSet);
